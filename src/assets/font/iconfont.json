@@ -1,0 +1,72 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "27922584",
+      "name": "可乐",
+      "font_class": "kele",
+      "unicode": "e65c",
+      "unicode_decimal": 58972
+    },
+    {
+      "icon_id": "27923405",
+      "name": "甜筒",
+      "font_class": "tiantong",
+      "unicode": "e65d",
+      "unicode_decimal": 58973
+    },
+    {
+      "icon_id": "27923659",
+      "name": "汉堡",
+      "font_class": "hanbao",
+      "unicode": "e65e",
+      "unicode_decimal": 58974
+    },
+    {
+      "icon_id": "27923924",
+      "name": "蟹籽寿司",
+      "font_class": "xiezishousi",
+      "unicode": "e65f",
+      "unicode_decimal": 58975
+    },
+    {
+      "icon_id": "27960609",
+      "name": "爆米花",
+      "font_class": "baomihua",
+      "unicode": "e660",
+      "unicode_decimal": 58976
+    },
+    {
+      "icon_id": "27960680",
+      "name": "热狗",
+      "font_class": "regou",
+      "unicode": "e661",
+      "unicode_decimal": 58977
+    },
+    {
+      "icon_id": "27961008",
+      "name": "马卡龙",
+      "font_class": "makalong",
+      "unicode": "e662",
+      "unicode_decimal": 58978
+    },
+    {
+      "icon_id": "27961227",
+      "name": "天妇罗",
+      "font_class": "tianfuluo",
+      "unicode": "e663",
+      "unicode_decimal": 58979
+    },
+    {
+      "icon_id": "28385957",
+      "name": "泡面",
+      "font_class": "paomian",
+      "unicode": "e689",
+      "unicode_decimal": 59017
+    }
+  ]
+}
